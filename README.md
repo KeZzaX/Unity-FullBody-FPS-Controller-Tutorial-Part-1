@@ -1,1 +1,2 @@
-# Unity-FullBody-FPS-Controller-Tutorial-Part-1
+## Unity-FullBody-FPS-Controller-Tutorial-Part-1
+This is the Unity project used in [the first part of the tutorial](http://matthew-isidore.ovh/full-body-fps-controller-part-1-base-character-controller/)
